@@ -1,0 +1,12 @@
+# 操作系统垃圾文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office 临时/锁文件（若将台账/票样导入 Excel、Word 使用）
+~$*
+*.tmp
+
+# 编辑器与工具临时文件
+*.swp
+*~
