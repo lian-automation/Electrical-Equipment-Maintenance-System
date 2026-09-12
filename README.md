@@ -1,6 +1,6 @@
 # Electrical-Equipment-Maintenance-System（工厂电气设备全流程维护体系文档包 + 故障场景推演材料）
 
-[![Docs CI](https://github.com/lwj15089590118/Electrical-Equipment-Maintenance-System/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lwj15089590118/Electrical-Equipment-Maintenance-System/actions/workflows/ci.yml)
+[![Docs CI](https://github.com/lian-automation/Electrical-Equipment-Maintenance-System/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/lian-automation/Electrical-Equipment-Maintenance-System/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Docs](https://img.shields.io/badge/Docs-%E6%96%87%E6%A1%A3%E4%BD%93%E7%B3%BB%E5%8C%85_17%E7%AF%87-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%2F%20%E9%80%9A%E7%94%A8-lightgrey)
