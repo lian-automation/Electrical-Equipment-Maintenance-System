@@ -10,3 +10,10 @@ Desktop.ini
 # 编辑器与工具临时文件
 *.swp
 *~
+
+# Python 运行产物（tools/doc_check.py 等）
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
