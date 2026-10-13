@@ -13,6 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 说明：本仓无 Python 依赖文件（仅标准库脚本），故不启用 setup-python 的
+      # cache: pip（无依赖清单时缓存键无法生成，会直接报错）。
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
