@@ -18,5 +18,10 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Lint (ruff, baseline E4/E7/E9/F)
+        run: |
+          pip install ruff
+          python -m ruff check .
+
       - name: Documentation consistency check (relative links / UTF-8 / doc count)
         run: python tools/doc_check.py
